@@ -1,2 +1,2 @@
-# BoilWater
-Teaches how to boil water the perfect way!
+# Boil Water
+Learn how to boil water the perfect way!
