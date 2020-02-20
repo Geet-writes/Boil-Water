@@ -5,7 +5,7 @@
     + [Procedure](#Procedure)
 
 # Overview
-Boiling the water is an art often underestimated. This procedure will let you master the art with ease if you follow it to the T. Pun intended!:wink:
+Boiling the water is an art often underestimated. This procedure will let you master the art with ease if you follow it to the T. Pun intended!
 
 ## Things you'll need
 > 1. Empty vessel
