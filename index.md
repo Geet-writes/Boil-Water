@@ -1,5 +1,3 @@
-*Boiling the water is an art!*
-
 **Table of Contents**
 
 - [Overview](#Overview)
@@ -18,7 +16,7 @@ Boiling the water is an art often underestimated. This procedure will let you ma
 ### Procedure
 > - Fill the vessel with water
 > - Put the vessel on the gas burner  
-> :white_check_mark: Make sure to turn the burner ON!
+> `Make sure to turn the burner ON!`
 > - Observe as the water starts heating and bubbling or let it sit on the burner for 20 minutes
 > - Turn off the burner  
 
